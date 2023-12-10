@@ -9,6 +9,8 @@
 			"Chakra",
 			"metacritic",
 			"webp"
-		]
+		],
+		"editor.fontSize": 20,
+		"editor.lineHeight": 1.6
 	}
 }
