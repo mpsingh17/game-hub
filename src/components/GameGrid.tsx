@@ -21,6 +21,7 @@ const GameGrid = ({ selectedGenre }: Props) => {
       <SimpleGrid
         columns={{ sm: 1, md: 2, lg: 3, xl: 4 }}
         paddingX={2}
+        marginY={2}
         spacing={3}
       >
         {isLoading &&
